@@ -1,15 +1,9 @@
 {
   "homepage": "https://marasss.github.io/react",
-  …
-}
-{
   "scripts": {
       "predeploy": "npm run build",
-      "deploy": "gh-pages -d build",
-      …
+      "deploy": "gh-pages -d build", 
   }
-}
-{
   "name": "react-test-create-react-app",
   "version": "0.1.0",
   "private": true,
